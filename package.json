@@ -2,6 +2,14 @@
   "name": "major-project",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://github.com/ommaurya2011/delta-wanderlust-project#readme",
+  "bugs": {
+    "url": "https://github.com/ommaurya2011/delta-wanderlust-project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ommaurya2011/delta-wanderlust-project.git"
+  },
   "license": "ISC",
   "author": "Om Maurya",
   "type": "commonjs",
@@ -26,5 +34,6 @@
     "passport": "^0.7.0",
     "passport-local": "^1.0.0",
     "passport-local-mongoose": "^8.0.0"
-  }
+  },
+  "devDependencies": {}
 }

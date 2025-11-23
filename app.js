@@ -74,12 +74,6 @@ const sessionOptions = {
   },
 };
 
-//Home Route
-
-// app.get("/", (req, res) => {
-//   res.send("server is listening on port 3000.");
-// });
-
 
 app.use(session(sessionOptions));
 app.use(flash());
